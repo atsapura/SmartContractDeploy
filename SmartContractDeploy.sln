@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartContractsPlayground", "SmartContractsPlayground\SmartContractsPlayground.csproj", "{1ECD7F07-468E-4D7E-83D6-16616A7A06AD}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ContractValidator", "ContractValidator\ContractValidator.fsproj", "{254DA79E-2C89-46AC-A228-00B0DD5AC3F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ECD7F07-468E-4D7E-83D6-16616A7A06AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECD7F07-468E-4D7E-83D6-16616A7A06AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECD7F07-468E-4D7E-83D6-16616A7A06AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECD7F07-468E-4D7E-83D6-16616A7A06AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{254DA79E-2C89-46AC-A228-00B0DD5AC3F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254DA79E-2C89-46AC-A228-00B0DD5AC3F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254DA79E-2C89-46AC-A228-00B0DD5AC3F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254DA79E-2C89-46AC-A228-00B0DD5AC3F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59D55FB4-C780-42BC-A0FD-6C2D5F218BBC}
+	EndGlobalSection
+EndGlobal

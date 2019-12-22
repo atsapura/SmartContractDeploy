@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Stratis.SmartContracts" Version="1.2.1" />
+    <PackageReference Include="Stratis.SmartContracts.CLR" Version="1.0.2" />
+  </ItemGroup>
+
+</Project>
